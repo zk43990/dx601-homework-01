@@ -38,18 +38,48 @@
 
 <img width="934" height="427" alt="image" src="https://github.com/user-attachments/assets/6ef4a80f-0023-4ab8-8a0c-451fad8c4b4a" />
 
-#### 6. Make sure to save and commit when you are done.
+#### 6. Make sure to save, commit and push back to Github when you are done.
 
 <img width="37" height="42" alt="image" src="https://github.com/user-attachments/assets/6b171a76-b039-433d-b309-6c180c917ca3" />
 
 ### Submit Notebook in Gradescope
 
-#### 1. Submit just "homework.ipynb".
+#### 1. Open Gradescope web site and login with your BU email.
 
-https://www.gradescope.com/courses/1064999
+https://www.gradescope.com/
+
+#### 2. Select this class.
+
+<img width="710" height="224" alt="image" src="https://github.com/user-attachments/assets/705833ce-e7d8-445b-9bca-5690211844a0" />
+
+#### 3. Select the current assignment.
+
+<img width="968" height="362" alt="image" src="https://github.com/user-attachments/assets/aa698352-bde3-4770-bd03-06b6565f268a" />
+
+#### 4. Submit "homework.ipynb".
+
+<img width="444" height="360" alt="image" src="https://github.com/user-attachments/assets/0f5c8b07-a339-4bbb-aa28-b2bebb42aa09" />
 
 You can download homework.ipynb and submit that file, or use the Github option.
+Make sure that you pushed your latest changes first if you use Github.
+The Github option does not work if you are accessing Gradescope from within Blackboard.
 
-#### 2. Check the autograder responses.
+#### 5. Confirm Gradescope Receipt
+
+<img width="381" height="177" alt="image" src="https://github.com/user-attachments/assets/a0e1c2c5-1527-4cb4-a658-d8c5e3102dfc" />
+
+#### 6. Check the autograder responses.
 
 These should be available within a minute of submission.
+
+##### Notebook submitted without your changes.
+
+<img width="614" height="198" alt="image" src="https://github.com/user-attachments/assets/10e9473d-2932-40df-9fdb-6ee13112d0d2" />
+
+##### Notebook successfully submitted and passing tests.
+
+<img width="919" height="519" alt="image" src="https://github.com/user-attachments/assets/433bb3b3-1ac5-4985-996b-00002eb2e74e" />
+
+#### 7. Resubmit as Necessary based on Autograder Feedback
+
+<img width="98" height="37" alt="image" src="https://github.com/user-attachments/assets/26850049-8089-4150-923b-801c02bbc837" />
